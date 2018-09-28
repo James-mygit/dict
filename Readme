@@ -1,0 +1,12 @@
+dict_1 是已经生成的适合mysql导入的文件
+
+dict.py 是生成dict_1的py文件 未提供原始dict 字典文件
+不需运行dict.py
+直接将dict_1拷贝到mysql的搜索路径下
+导入到数据库
+
+当然你需要创建自己的数据库：
+dict库	user表   history表    dict_select表
+
+
+ 
